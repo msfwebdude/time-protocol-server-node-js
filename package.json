@@ -1,0 +1,16 @@
+{
+  "name": "time37",
+  "version": "1.0.0",
+  "description": "Time Protocol Server TCP and UDP RFC868",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "n/a"
+  },
+  "keywords": [
+    "time",
+    "RFC868"
+  ],
+  "author": "Mike Firoved",
+  "license": "MIT"
+}
